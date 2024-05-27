@@ -1,0 +1,13 @@
+E:\Project\Employee Management System\EMS\EMS\bin\Debug\EMS.exe.config
+E:\Project\Employee Management System\EMS\EMS\bin\Debug\EMS.exe
+E:\Project\Employee Management System\EMS\EMS\bin\Debug\EMS.pdb
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.csproj.AssemblyReference.cache
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.Login.resources
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.Properties.Resources.resources
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.csproj.GenerateResource.cache
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.csproj.CoreCompileInputs.cache
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.exe
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.pdb
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.Employees.resources
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.Departments.resources
+E:\Project\Employee Management System\EMS\EMS\obj\Debug\EMS.Salaries.resources
